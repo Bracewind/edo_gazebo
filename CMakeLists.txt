@@ -13,8 +13,7 @@ find_package(catkin REQUIRED COMPONENTS
   effort_controllers
   gazebo_ros
   gazebo_ros_control
-  joint_state_controller
-  joint_trajectory_controller
+  ros_controllers
   robot_state_publisher
   rostopic
 )
